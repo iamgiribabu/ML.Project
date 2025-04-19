@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: mlproject
+Version: 0.1
+Summary: A sample Python package
+Author: Giribabu Anisetti
+Author-email: girianisetti06@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: tensorflow
+Requires-Dist: matplotlib
+Requires-Dist: keras
+Requires-Dist: pytorch
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
